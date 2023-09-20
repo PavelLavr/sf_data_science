@@ -44,24 +44,28 @@ def score_game(random_predict) -> int:
     print(f"Ваш алгоритм угадывает число в среднем за: {score} попытки")
     
 def game_core_v3(number: int = 1) -> int:
-    """
+    """ Эффективно гадываем число
     Args:
         number (int, optional): Загаданное число. Defaults to 1.
 
     Returns:
         int: Число попыток
     """
-    max_number = 101
-    min_number = 1
-    predict = int(max_number / 2)
+    max_number = 101 # задаём максимально и минимально возможные загаданые числа 
+    min_number = 0
+    predict = int(max_number / 2) # делаем предположение, что загадоное число это половина от максимально возможного числа
     count = 0
     while number != predict:
       count += 1
-      if predict > number:
+      if predict > number: 
+        # если загадоное число меньше нашего предположениея запоминаем, что больше него загаданое число быть не может.
         max_number = predict
+        # делаем предположение, что загаданое число это среднее между максимальным и минимальным возможным
         predict = int((max_number + min_number) / 2)
-      elif predict < number:
+      elif predict < number: #
+        # если загадоное число больше нашего предположениея запоминаем, что меньше него загаданое число быть не может.
         min_number = predict
+        # делаем предположение, что загаданое число это среднее между максимальным и минимальным возможным
         predict = int((max_number + min_number) / 2)
     return count
 print('Run benchmarking for random_predict: ', end='')
