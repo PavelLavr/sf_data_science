@@ -29,22 +29,22 @@
 
 Учимся писать хороший код на Python
 
-[Вернуться к оглавлению](https://github.com/PavelLavr/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[Вернуться к оглавлению](https://github.com/PavelLavr/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 
 ### Краткая информация о данных
 ....
 
-[Вернуться к оглавлению](https://github.com/PavelLavr/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[Вернуться к оглавлению](https://github.com/PavelLavr/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 
 ### Этапы работы над проектом
 ....
 
-[Вернуться к оглавлению](https://github.com/PavelLavr/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[Вернуться к оглавлению](https://github.com/PavelLavr/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 
 ### Результат
 Программа угадывает число в среднем за 4 попытки, что в 25 раз лучше чем случайное угадывание
 
-[Вернуться к оглавлению](https://github.com/PavelLavr/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[Вернуться к оглавлению](https://github.com/PavelLavr/sf_data_science/tree/main/project_0/README.md#Оглавление)
