@@ -58,7 +58,7 @@
 
 
 ## 4. Результат
-
+В результате выполнения проекта получен датасет с очищенными от мусорных данных резюме.
 
 Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/PavelLavr/sf_data_science/tree/main/project_1/requirements.txt).                
 :arrow_up:[К оглавлению](https://github.com/PavelLavr/sf_data_science/blob/main/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)         
