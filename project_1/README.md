@@ -1,16 +1,16 @@
 # Проект 1. Анализ резюме из Head Hunter
 
 ## Оглавление
-[1. Описание проекта](https://github.com/PavelLavr/sf_data_science/tree/main/project_1/README.md#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/PavelLavr/sf_data_science/tree/main/project_1/README.md#Какой-кейс-решаем?)
-[3. Краткая информация о данных](https://github.com/PavelLavr/sf_data_science/tree/main/project_1/README.md#Краткая-информация-о-данных)
-[4. Результат](https://github.com/PavelLavr/sf_data_science/tree/main/project_1/README.md#Результат)
-[5. Выводы](https://github.com/PavelLavr/sf_data_science/tree/main/project_1/README.md#Выводы)
+[1. Описание проекта](https://github.com/PavelLavr/sf_data_science/blob/main/project_1/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+[2. Какой кейс решаем?](https://github.com/PavelLavr/sf_data_science/blob/main/project_1/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
+[3. Краткая информация о данных](https://github.com/PavelLavr/sf_data_science/blob/main/project_1/README.md#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85v)
+[4. Результат](https://github.com/PavelLavr/sf_data_science/blob/main/project_1/README.md#4-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82)
+[5. Выводы](https://github.com/PavelLavr/sf_data_science/blob/main/project_1/README.md#5-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
 
 ### Описание проекта
 
  Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Однако прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить. В этом и заключается цель данного проекта!     
- :arrow_up:[in table of contents](https://github.com/PavelLavr/sf_data_science/tree/main/project_1/README.md#Оглавление)      
+ :arrow_up:[К оглавлению](https://github.com/PavelLavr/sf_data_science/blob/main/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)      
 
 
 ### Какой кейс решаем?
@@ -33,10 +33,10 @@
 * Графики оформляются в соответствии с теми правилами, которые мы приводили в модуле по визуализации данных.
 * Обязательное требование: графики должны содержать название, отражающее их суть, и подписи осей.
 * Выводы к графикам оформляются в формате Markdown под самим графиком в отдельной ячейке (в шаблоне они помечены как ваши выводы здесь). Выводы должны быть представлены в виде небольших связанных предложений на русском языке.        
-:arrow_up:[in table of contents](https://github.com/PavelLavr/sf_data_science/tree/main/project_1/README.md#Оглавление)      
+:arrow_up:[К оглавлению](https://github.com/PavelLavr/sf_data_science/blob/main/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)      
 
 
-### Краткая информация о данныхv
+### Краткая информация о данных
 
 В проекте используется база резюме, выгруженная с сайта поиска вакансий hh.ru.        
 Датасет содержит 44744 обезличенные записи по 12 признакам:                     
@@ -53,19 +53,19 @@
 Обновление резюме - дата и время последнего обновления резюме соискателем;             
 Авто - наличие у соискателя автомобиля.             
 Исходный датасет можно скачать по [ссылке](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)     
-Файл [ExchangeRates.zip](https://github.com/PavelLavr/sf_data_science/tree/main/project_1/ExchangeRates.zip) содержит сведенья о курсах валют.           
-:arrow_up:[in table of contents](https://github.com/PavelLavr/sf_data_science/tree/main/project_1/README.md#Оглавление)        
+Файл [ExchangeRates.zip](https://github.com/PavelLavr/sf_data_science/blob/main/project_1/ExchangeRates%20.zip) содержит сведенья о курсах валют.           
+:arrow_up:[К оглавлению](https://github.com/PavelLavr/sf_data_science/blob/main/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)        
 
 
 ## 4. Результат
 
 
 Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/PavelLavr/sf_data_science/tree/main/project_1/requirements.txt).                
-:arrow_up:[in table of contents](https://github.com/PavelLavr/sf_data_science/tree/main/project_1/README.md#Оглавление)         
+:arrow_up:[К оглавлению](https://github.com/PavelLavr/sf_data_science/blob/main/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)         
 
 
 ## 5. Выводы
 
 В данном проекте была проведена работа по подготовке исходных данных, по анализу данных с использыванием средств визуализации
 А так же по отчистке данных от пропусков и мусорных данных                  
-:arrow_up:[in table of contents](https://github.com/PavelLavr/sf_data_science/tree/main/project_1/README.md#Оглавление)   
+:arrow_up:[К оглавлению](https://github.com/PavelLavr/sf_data_science/blob/main/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)   
